@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mario Kelo
+Electrical Engineering student at the Polytechnic University of Tirana.
 
-<!--
-**mariokelo/mariokelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in embedded systems, analog electronics, and power systems.
 
-Here are some ideas to get you started:
+## Projects
+- [Electronic Thermometer](link) — NPN transistor-based temp sensor with OLED display
+- [Ultrasonic Radar Scanner](link) — Servo + HC-SR04 with real-time visualization
+- [Distance Measurement Sensor](link) — Proximity alert system with LCD and LEDs
+- [Wheatstone Bridge Resistance Meter](link) — Analog resistance measurement with balance detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Arduino · C/C++ · Python · MATLAB · AutoCAD · LTSpice · Circuit Design - Multisim
